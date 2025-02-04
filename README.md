@@ -9,7 +9,7 @@ INTERN ID: CT08MYM
 
 DOMAIN: EMBEDDED SYSTEMS
 
-BATCH DURATION: January 20th,2025 to February  20th,2025
+BATCH DURATION: January 20th,2025 to February  20th,2025 (4 Weeks)
 
 MENTOR NAME: Neela Santhosh Kumar
 
