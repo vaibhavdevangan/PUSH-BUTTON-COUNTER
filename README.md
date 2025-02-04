@@ -20,20 +20,21 @@ ESP32 PUSH BUTTON COUNTER
 
 This project is a push-button counter using an ESP32 and Arduino IDE. Every time the button is pressed, the counter value increases, and the result is displayed on the Serial Monitor.
 
-Components Required:--
+COMPONENTS REQUIRED:--
 
-ESP32 Development Board
+•ESP32 Development Board
 
-Push Button
+•Push Button
 
-10kΩ Resistor (optional for pull-down)
+•10kΩ Resistor (optional for pull-down)
 
-Connecting Wires
+•Connecting Wires
 
-Breadboard
+•Breadboard
 
 
-Circuit Connection
+
+CIRCUIT CONNECTION:--
 
 Push Button: One side to GPIO4 and the other to GND.
 
