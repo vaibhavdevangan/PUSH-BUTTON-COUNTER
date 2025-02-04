@@ -54,8 +54,7 @@ How to Run the Project-->
 
 1. Clone this repository
 
-git clone https://github.com/vaibhavdevangan/ESP32-PushButton-Counter.git
-
+https://github.com/vaibhavdevangan/PUSH-BUTTON-COUNTER
 
 2. Open the .ino file in Arduino IDE.
 
