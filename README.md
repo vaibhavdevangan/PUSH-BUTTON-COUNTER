@@ -69,3 +69,8 @@ https://github.com/vaibhavdevangan/PUSH-BUTTON-COUNTER
 
 
 6. Press the button and see the count increase in the Serial Monitor.
+
+
+#output
+![Image](https://github.com/user-attachments/assets/bc628d5f-cf5e-4355-bff1-1cb7800c440a)
+
